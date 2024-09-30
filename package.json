@@ -1,0 +1,26 @@
+{
+  "name": "moneysafari",
+  "version": "1.0.0",
+  "description": "This is a tool to manage finanace",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon --env-file .env src/index.js"
+  },
+  "keywords": [
+    "Finance",
+    "Money"
+  ],
+  "author": "Raj Mhatre",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0"
+  }
+}

@@ -1,4 +1,4 @@
-# Welcome to the MyTube code
+# Welcome to the Money Safari code
 
 ## Introduction
 
